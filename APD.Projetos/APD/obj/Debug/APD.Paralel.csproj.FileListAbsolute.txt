@@ -1,0 +1,9 @@
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\bin\Debug\APD.exe.config
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\bin\Debug\APD.exe
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\bin\Debug\APD.pdb
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.Paralel.csprojResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.Form1.resources
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.Paralel.csproj.GenerateResource.Cache
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.exe
+C:\Users\ALUNO\Desktop\Aula_22-08-17\APD.Projetos\APD\obj\Debug\APD.pdb
